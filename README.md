@@ -55,3 +55,37 @@ Sesuai dengan ketentuan UAS, aplikasi ini memiliki fitur-fitur teknis berikut:
 └── recipe_service.dart
 └── main.dart
 # Entry point & Tema
+## 🚀 Cara Menjalankan Aplikasi
+
+Ikuti langkah ini untuk mencoba aplikasi di mesin lokal Anda:
+
+1.  **Clone Repositori ini**
+    ```bash
+    git clone [https://github.com/username-anda/nama-repo.git](https://github.com/username-anda/nama-repo.git)
+    ```
+
+2.  **Masuk ke direktori proyek**
+    ```bash
+    cd nama-repo
+    ```
+
+3.  **Install Dependencies**
+    ```bash
+    flutter pub get
+    ```
+
+4.  **Jalankan Aplikasi**
+    Pastikan emulator atau device fisik sudah terhubung dan memiliki koneksi internet.
+    ```bash
+    flutter run
+    ```
+
+## 👤 Profil Mahasiswa
+
+* **Nama:** [Tulis Nama Lengkap Anda]
+* **NIM:** [Tulis NIM Anda]
+* **Kelas:** [Tulis Kelas Anda]
+* **Kampus:** UIN Maulana Malik Ibrahim Malang
+
+---
+*Dibuat dengan  menggunakan Flutter*
