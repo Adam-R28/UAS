@@ -47,12 +47,12 @@ Ikuti langkah ini untuk mencoba aplikasi di mesin lokal Anda:
 
 1.  **Clone Repositori ini**
     ```bash
-    git clone [https://github.com/Adam-R28/UAS/tree/main](https://github.com/Adam-R28/UAS/tree/main)
+    git clone [https://github.com/Adam-R28/UAS/tree/main]
     ```
 
 2.  **Masuk ke direktori proyek**
     ```bash
-    cd nama-repo
+    cd UAS
     ```
 
 3.  **Install Dependencies**
@@ -68,7 +68,7 @@ Ikuti langkah ini untuk mencoba aplikasi di mesin lokal Anda:
 
 ## 👤 Profil Mahasiswa
 
-* **Nama:** Adan Syarifani Muhammad
+* **Nama:** Adam Syarifani Muhammad
 * **NIM:** 230605110051
 * **Kelas:** C
 * **Kampus:** UIN Maulana Malik Ibrahim Malang
