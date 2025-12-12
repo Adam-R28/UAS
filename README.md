@@ -37,24 +37,22 @@ Sesuai dengan ketentuan UAS, aplikasi ini memiliki fitur-fitur teknis berikut:
 > *Catatan: Gambar di atas menunjukkan aplikasi berjalan dengan data real-time.*
 
 ## 📂 Struktur Proyek
-/lib 
-├── /models # Model data (JSON Serialization) 
-│ 
-├── category.dart 
-│ 
-└── recipe.dart
-├── /pages # Tampilan Antarmuka (UI) 
-│ 
-├── home_page.dart
-│ 
-├── recipe_list_page.dart
-│ 
-└── recipe_detail_page.dart 
-├── /services # Logika HTTP Request
-│ 
-└── recipe_service.dart
-└── main.dart
-# Entry point & Tema
+```text
+lib/
+├── models/                    # Layer Data (JSON Serialization)
+│   ├── category.dart          # Model untuk data Kategori
+│   └── recipe.dart            # Model untuk data Resep & Detail
+│
+├── pages/                     # Layer UI (Tampilan Antarmuka)
+│   ├── home_page.dart         # Halaman Utama (Search & Kategori)
+│   ├── recipe_list_page.dart  # Halaman Daftar Resep (Filter Kategori)
+│   └── recipe_detail_page.dart# Halaman Detail (Menampilkan Bahan & Cara Masak)
+│
+├── services/                  # Layer Logika (HTTP Request)
+│   └── recipe_service.dart    # Menangani komunikasi ke TheMealDB API
+│
+└── main.dart                  # Entry Point & Konfigurasi Tema Aplikasi
+text'''
 ## 🚀 Cara Menjalankan Aplikasi
 
 Ikuti langkah ini untuk mencoba aplikasi di mesin lokal Anda:
