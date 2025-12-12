@@ -37,7 +37,7 @@ Sesuai dengan ketentuan UAS, aplikasi ini memiliki fitur-fitur teknis berikut:
 > *Catatan: Gambar di atas menunjukkan aplikasi berjalan dengan data real-time.*
 
 ## 📂 Struktur Proyek
-```text
+```
 lib/
 ├── models/                    # Layer Data (JSON Serialization)
 │   ├── category.dart          # Model untuk data Kategori
@@ -52,7 +52,7 @@ lib/
 │   └── recipe_service.dart    # Menangani komunikasi ke TheMealDB API
 │
 └── main.dart                  # Entry Point & Konfigurasi Tema Aplikasi
-text'''
+```
 ## 🚀 Cara Menjalankan Aplikasi
 
 Ikuti langkah ini untuk mencoba aplikasi di mesin lokal Anda:
@@ -80,9 +80,9 @@ Ikuti langkah ini untuk mencoba aplikasi di mesin lokal Anda:
 
 ## 👤 Profil Mahasiswa
 
-* **Nama:** [Tulis Nama Lengkap Anda]
-* **NIM:** [Tulis NIM Anda]
-* **Kelas:** [Tulis Kelas Anda]
+* **Nama:** Adan Syarifani Muhammad
+* **NIM:** 230605110051
+* **Kelas:** C
 * **Kampus:** UIN Maulana Malik Ibrahim Malang
 
 ---
