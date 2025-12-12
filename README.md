@@ -37,3 +37,5 @@ Sesuai dengan ketentuan UAS, aplikasi ini memiliki fitur-fitur teknis berikut:
 > *Catatan: Gambar di atas menunjukkan aplikasi berjalan dengan data real-time.*
 
 ## 📂 Struktur Proyek
+/lib ├── /models # Model data (JSON Serialization) │ ├── category.dart │ └── recipe.dart ├── /pages # Tampilan Antarmuka (UI) │ ├── home_page.dart │ ├── recipe_list_page.dart │ └── recipe_detail_page.dart ├── /services # Logika HTTP Request │ └── recipe_service.dart └── main.dart
+# Entry point & Tema
