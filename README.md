@@ -47,7 +47,7 @@ Ikuti langkah ini untuk mencoba aplikasi di mesin lokal Anda:
 
 1.  **Clone Repositori ini**
     ```bash
-    git clone [[https://github.com/username-anda/nama-repo.git](https://github.com/Adam-R28/UAS/tree/main)]([https://github.com/username-anda/nama-repo.git](https://github.com/Adam-R28/UAS/tree/main))
+    git clone [https://github.com/Adam-R28/UAS/tree/main](https://github.com/Adam-R28/UAS/tree/main)
     ```
 
 2.  **Masuk ke direktori proyek**
