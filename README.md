@@ -24,18 +24,6 @@ Sesuai dengan ketentuan UAS, aplikasi ini memiliki fitur-fitur teknis berikut:
 * **API Provider:** [TheMealDB](https://www.themealdb.com/api.php) (Free Public API)
 * **IDE:** VS Code / Android Studio
 
-## 📸 Tangkapan Layar (Screenshots)
-
-| Halaman Beranda (Loading) | Halaman Beranda (Data API) | Hasil Pencarian |
-|:-------------------------:|:--------------------------:|:---------------:|
-| *(Tempel Link Gambar 1)* |  *(Tempel Link Gambar 2)* | *(Tempel Link Gambar 3)* |
-
-| Detail Resep | Penanganan Error (Offline) |
-|:------------:|:--------------------------:|
-| *(Tempel Link Gambar 4)* | *(Tempel Link Gambar 5)* |
-
-> *Catatan: Gambar di atas menunjukkan aplikasi berjalan dengan data real-time.*
-
 ## 📂 Struktur Proyek
 ```
 lib/
@@ -59,7 +47,7 @@ Ikuti langkah ini untuk mencoba aplikasi di mesin lokal Anda:
 
 1.  **Clone Repositori ini**
     ```bash
-    git clone [https://github.com/username-anda/nama-repo.git](https://github.com/username-anda/nama-repo.git)
+    git clone [[https://github.com/username-anda/nama-repo.git](https://github.com/Adam-R28/UAS/tree/main)]([https://github.com/username-anda/nama-repo.git](https://github.com/Adam-R28/UAS/tree/main))
     ```
 
 2.  **Masuk ke direktori proyek**
